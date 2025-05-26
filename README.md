@@ -5,7 +5,6 @@
 
 <div align="center">
   <p>
-    <em>Tecnico en Desarrollo de Software</em>
     <em>Aprendiz en Tecnología de Análisis y Desarrollo de Software (ADSO)</em>
     <br />
     <em>Resido en Medellín, Antioquia, Colombia</em>
@@ -29,21 +28,21 @@
 <h3 align="left">Sobre Mí:</h3>
 
 &emsp;
-Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables.
+Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables, tanto para web como para dispositivos móviles.
 
 - 🔭 Actualmente estoy trabajando en:
-    - Mi proyecto de grado: "La Fuente del Peluquero", una aplicación web desarrollada con **React Vite** para el frontend y **PostgreSQL** como base de datos.
+    - Mi proyecto de grado: "La Fuente del Peluquero", una aplicación que incluye una parte web desarrollada con **React Vite** y **PostgreSQL**, y una **aplicación móvil** desarrollada con **Dart/Flutter**.
 - 🌱 Actualmente estoy aprendiendo y mejorando en:
     - Desarrollo full-stack con **JavaScript (React, Node.js)**.
+    - Desarrollo móvil multiplatforma con **Dart y Flutter**.
     - Gestión y optimización de bases de datos como **PostgreSQL** y **MySQL**.
     - Aplicación de buenas prácticas en el ciclo de vida del desarrollo de software.
 - 💬 Pregúntame sobre:
-    - **Java, PHP, JavaScript, Python.**
-    - **Node.js, React.**
+    - **Java, PHP, JavaScript, Python, Dart.**
+    - **Node.js, React, Flutter.**
     - **Bases de datos: PostgreSQL, MySQL (Workbench), SQL Server (SSMS).**
     - **Control de versiones con Git.**
-- 😄 Pronombres: [Tus Pronombres, ej: Él/Lo]
-- ⚡ Dato Curioso: Tengo 19 años, ¡casi 20! Y estoy entusiasmado por seguir creciendo en el mundo tech.
+- 😄 Pronombres: Él/Lo - ⚡ Dato Curioso: Tengo 19 años, ¡casi 20! Y estoy entusiasmado por seguir creciendo en el mundo tech, explorando tanto el desarrollo web como el móvil.
 
 &emsp;
 
@@ -52,11 +51,16 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 
 <div align="center">
   <h3>Lenguajes de Programación</h3>
-  <img src="https://skillicons.dev/icons?i=java,php,js,python"/>
+  <img src="https://skillicons.dev/icons?i=java,php,js,python,dart"/>
 </div>
 
 <div align="center">
-  <h3>Frontend</h3>
+  <h3>Desarrollo Móvil</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart"/>
+</div>
+
+<div align="center">
+  <h3>Frontend Web</h3>
   <img src="https://skillicons.dev/icons?i=react,vite,html,css,js"/>
 </div>
 
