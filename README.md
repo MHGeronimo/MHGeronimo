@@ -82,7 +82,7 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 
 <div align="center">
   <h3>Sistemas Operativos</h3>
-  <img src="https://skillicons.dev/icons?i=windows,linux"/> </div>
+  <img src="https://skillicons.dev/icons?i=windows"/> </div>
 
 <br>
 
