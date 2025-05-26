@@ -102,13 +102,18 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 ## 📫 Cómo Contactarme:
 ---
 <div align="center">
-  <a href="mailto:mrgerito@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/> </a> &emsp;
-  <br/>
-  <a href="mailto:geronimomh08@hotmail.com"> <img src="https://skillicons.dev/icons?i=hotmail" alt="Hotmail"/> </a> &emsp;
-  <br/>
-  <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a>
-  <br/>
-  <p>Otros correos: mhgeronimo8@gmail.com</p>
+  <a href="mailto:mrgerito@gmail.com" title="Correo Principal: mrgerito@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail (Principal)"/>
+  </a> &emsp;
+  <a href="mailto:mhgeronimo8@gmail.com" title="Correo Secundario: mhgeronimo8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail (Secundario)"/>
+  </a> &emsp;
+  <a href="mailto:geronimomh08@hotmail.com" title="Correo Hotmail: geronimomh08@hotmail.com">
+    <img src="https://skillicons.dev/icons?i=hotmail" alt="Hotmail"/>
+  </a> &emsp;
+  <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/" target="_blank" rel="noopener noreferrer" title="Perfil de LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 </div>
 <br>
 
