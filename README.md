@@ -42,7 +42,7 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
     - **Node.js, React, Flutter.**
     - **Bases de datos: PostgreSQL, MySQL (Workbench), SQL Server (SSMS).**
     - **Control de versiones con Git.**
-- 😄 Pronombres: Él/Lo - ⚡ Dato Curioso: Tengo 19 años, ¡casi 20! Y estoy entusiasmado por seguir creciendo en el mundo tech, explorando tanto el desarrollo web como el móvil.
+-   - ⚡ Dato Curioso: Tengo 19 años, ¡casi 20! Y estoy entusiasmado por seguir creciendo en el mundo tech, explorando tanto el desarrollo web como el móvil.
 
 &emsp;
 
