@@ -82,7 +82,7 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 
 <div align="center">
   <h3>Sistemas Operativos</h3>
-  <img src="https://skillicons.dev/icons?i=windows,linux"/> </div>
+  <img src="https://skillicons.dev/icons?i=windows"/> </div>
 
 <br>
 
@@ -110,7 +110,7 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
   </a> &emsp;
   <a href="mailto:geronimomh08@hotmail.com" title="Correo Hotmail: geronimomh08@hotmail.com">
     <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/outlook-auto.svg" alt="Outlook (Hotmail)" width="48px" />
-  <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/" target="_blank" rel="noopener noreferrer" title="Perfil de LinkedIn">
+  </a> &emsp; <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/" target="_blank" rel="noopener noreferrer" title="Perfil de LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </div>
