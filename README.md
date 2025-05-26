@@ -54,7 +54,6 @@
   </ul>
   &emsp;
 </details>
-
 <details open>
   <summary><h2>🛠️ Mis Habilidades</h2></summary>
   ---
@@ -97,7 +96,7 @@
   <br>
 </details>
 
-<details>
+<details open>
   <summary><h2>🎮 Mis Juegos y Actividad Lúdica en GitHub</h2></summary>
   ---
   <div align="center">
