@@ -11,8 +11,6 @@
   </p>
 
   <a href="https://github.com/Velsty">
-    <img src="" alt="Insignia/Imagen Personalizada" /> </a>
-  <a href="https://github.com/Velsty">
     <img src="https://img.shields.io/github/followers/Velsty?label=Seguir&style=social" alt="Seguidores en GitHub"/>
   </a>
   <a href="https://github.com/Velsty?tab=repositories">
