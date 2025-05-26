@@ -91,12 +91,10 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 
 <div align="center">
 
-| Serpiente de Contribuciones                                                                                               | GitHub Skyline (2025)                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Mi animación de serpiente de contribuciones de GitHub](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | ![GitHub Skyline de Velsty](https://skyline.github.com/Velsty/2025.png?theme=dark) |
+| Serpiente de Contribuciones                                                                                               | 
+| ------------------------------------------------------------------------------------------------------------------------- |
+| ![Mi animación de serpiente de contribuciones de GitHub](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 
-**Nota:** Puedes cambiar el año en la URL de Skyline (ej. 2024) si deseas mostrar un año anterior.
-La imagen de la serpiente es un ejemplo; puedes generar la tuya o reemplazarla si lo deseas.
 </div>
 
 <br>
