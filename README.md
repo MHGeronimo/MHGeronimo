@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<a href="https://github.com/Velsty">
+<img src="" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
