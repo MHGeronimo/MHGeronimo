@@ -103,7 +103,9 @@ Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software 
 ---
 <div align="center">
   <a href="mailto:mrgerito@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/> </a> &emsp;
+  <br/>
   <a href="mailto:geronimomh08@hotmail.com"> <img src="https://skillicons.dev/icons?i=hotmail" alt="Hotmail"/> </a> &emsp;
+  <br/>
   <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a>
   <br/>
   <p>Otros correos: mhgeronimo8@gmail.com</p>
