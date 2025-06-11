@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    <em>Aprendiz en Tecnología de Análisis y Desarrollo de Software (ADSO) en el SENA</em>
+    <em>Tecnologo en Análisis y Desarrollo de Software (ADSO) en el SENA</em>
     <br />
     <em>Resido en Medellín, Antioquia, Colombia</em>
   </p>
