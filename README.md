@@ -89,10 +89,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
   </div>
 
-  <div align="center">
-    <h3>Sistemas Operativos</h3>
-    <img src="https://skillicons.dev/icons?i=windows"/>
-  </div>
   <br>
 </details>
 
