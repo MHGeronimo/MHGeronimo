@@ -97,7 +97,7 @@
 </details>
 
 <details open>
-  <summary><h2>🎮 Mis Juegos y Actividad Lúdica en GitHub</h2></summary>
+  <summary><h2>🎮 Games</h2></summary>
   ---
   <div align="center">
     <h3>🐍 Serpiente de Contribuciones</h3>
