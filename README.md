@@ -26,7 +26,7 @@
 <details open>
   <summary><h3 align="left">📝 Sobre Mí:</h3></summary>
   &emsp;
-  Soy un apasionado aprendiz en Tecnología de Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables, tanto para web como para dispositivos móviles.
+  Tecnologo en Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables, tanto para web como para dispositivos móviles.
 
   <ul>
     <li>🔭 Actualmente estoy trabajando en:
