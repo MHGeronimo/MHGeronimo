@@ -11,10 +11,10 @@
   </p>
 
   <a href="https://github.com/Velsty">
-    <img src="https://img.shields.io/github/followers/Velsty?label=Seguir&style=social" alt="Seguidores en GitHub"/>
+    <img src="https://img.shields.io/github/followers/MHGeronimo?label=Seguir&style=social" alt="Seguidores en GitHub"/>
   </a>
   <a href="https://github.com/Velsty?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Velsty?style=social" alt="Estrellas en GitHub"/>
+    <img src="https://img.shields.io/github/stars/MHGeronimo?style=social" alt="Estrellas en GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ger%C3%B3nimo-mart%C3%ADnez-higuita-847430368/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
