@@ -26,7 +26,7 @@
 <details open>
   <summary><h3 align="left">📝 Sobre Mí:</h3></summary>
   &emsp;
-  Tecnologo en Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables, tanto para web como para dispositivos móviles.
+  Tecnologo en Análisis y Desarrollo de Software (ADSO) con un fuerte deseo de aprender y aplicar mis conocimientos en proyectos desafiantes. Me fascina la creación de soluciones tecnológicas eficientes y escalables.
 
   <ul>
     <li>🔭 Actualmente estoy trabajando en:
@@ -44,13 +44,11 @@
     </li>
     <li>💬 Pregúntame sobre:
       <ul>
-        <li><strong>Java, PHP, JavaScript, Python, Dart.</strong></li>
-        <li><strong>Node.js, React, Flutter.</strong></li>
-        <li><strong>Bases de datos: PostgreSQL, MySQL (Workbench), SQL Server (SSMS).</strong></li>
-        <li><strong>Control de versiones con Git.</strong></li>
+        <li><strong>Java, PHP, JavaScript, Python.</strong></li>
+        <li><strong>Node.js, React.</strong></li>
+        <li><strong>Bases de datos: PostgreSQL.</strong></li>
       </ul>
     </li>
-    <li>⚡ Dato Curioso: Tengo 19 años, ¡casi 20! Y estoy entusiasmado por seguir creciendo en el mundo tech, explorando tanto el desarrollo web como el móvil.</li>
   </ul>
   &emsp;
 </details>
@@ -59,12 +57,7 @@
   ---
   <div align="center">
     <h3>Lenguajes de Programación</h3>
-    <img src="https://skillicons.dev/icons?i=java,php,js,python,dart"/>
-  </div>
-
-  <div align="center">
-    <h3>Desarrollo Móvil</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,dart"/>
+    <img src="https://skillicons.dev/icons?i=php,js,python"/>
   </div>
 
   <div align="center">
@@ -79,28 +72,10 @@
 
   <div align="center">
     <h3>Bases de Datos</h3>
-    <p>MySQL, PostgreSQL, SQL Server Management Studio, MySQL Workbench</p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver"/>
+    <p>MySQL, PostgreSQL</p>
+    <img src="https://skillicons.dev/icons?i=postgres"/>
   </div>
 
-  <div align="center">
-    <h3>Herramientas y Control de Versión</h3>
-    <p>Manejo de Git y herramientas de Microsoft.</p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
-  </div>
-
-  <br>
-</details>
-
-<details open>
-  <summary><h2>🎮 Games</h2></summary>
-  ---
-  <div align="center">
-    <h3>🐍 Serpiente de Contribuciones</h3>
-    <p>
-      <img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" alt="Mi animación de serpiente de contribuciones de GitHub"/>
-    </p>
-  </div>
   <br>
 </details>
 
@@ -127,4 +102,4 @@
 ---
 Inspirado en los perfiles de [CtorW](https://github.com/CtorW) y [Berkeli](https://github.com/Berkeli).
 <br>
-Última edición: 2025-05-26
+Última edición: 06/08/2025
