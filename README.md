@@ -72,7 +72,7 @@
 
   <div align="center">
     <h3>Bases de Datos</h3>
-    <p>MySQL, PostgreSQL</p>
+    <p>PostgreSQL</p>
     <img src="https://skillicons.dev/icons?i=postgres"/>
   </div>
 
