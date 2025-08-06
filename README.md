@@ -44,7 +44,7 @@
     </li>
     <li>💬 Pregúntame sobre:
       <ul>
-        <li><strong>Java, PHP, JavaScript, Python.</strong></li>
+        <li><strong>PHP, JavaScript, Python.</strong></li>
         <li><strong>Node.js, React.</strong></li>
         <li><strong>Bases de datos: PostgreSQL.</strong></li>
       </ul>
