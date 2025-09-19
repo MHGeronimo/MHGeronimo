@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" alt="Geronimo Martinez Higuita" />
   <h1>Hola, soy Geronimo Martinez Higuita 👋</h1>
 </div>
 
